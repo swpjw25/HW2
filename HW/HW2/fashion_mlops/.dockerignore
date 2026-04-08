@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.git/
+.gitignore
+.github/
+.vscode/
+venv/
+env/
+.env
+*.tar.gz
+actions-runner/
